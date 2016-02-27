@@ -15,4 +15,8 @@ Once you have the directory on your computer, go into it and start PsiTurk.
 	cd jspsi-go-example
 	psiturk
 
+If you want to edit the CoffeeScript experiment and have it installed, run this in the directory with `experiment.litcoffee` to automatically recompile the script into javascript every time you save.
+
+	coffee -c -w experiment.litcoffee
+
 All of this is available under an MIT license. If you like this and want more examples in CoffeScript, consider [leaving a tip through PayPal](https://www.paypal.me/jtth) or [through Cash](https://cash.me/$jtth).
