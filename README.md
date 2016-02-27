@@ -15,4 +15,4 @@ Once you have the directory on your computer, go into it and start PsiTurk.
 	cd jspsi-go-example
 	psiturk
 
-All of this is available under an MIT license. If you like this and want more examples, consider [leaving a tip through PayPal](https://www.paypal.me/jtth) or [through Cash](https://cash.me/$jtth).
+All of this is available under an MIT license. If you like this and want more examples in CoffeScript, consider [leaving a tip through PayPal](https://www.paypal.me/jtth) or [through Cash](https://cash.me/$jtth).
