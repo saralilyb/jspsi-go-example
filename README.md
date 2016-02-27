@@ -1,4 +1,4 @@
-# psiturcat
+# jspsi-go-example
 
 This is an updated example of the integration between [PsiTurk](http://www.psiturk.org/) and [jsPsych](http://www.jspsych.org/). It is a rewrite of the example code given in the [jsPsych tutorial](http://docs.jspsych.org/tutorials/rt-task/) using Literate [CoffeeScript](http://coffeescript.org/).
 
