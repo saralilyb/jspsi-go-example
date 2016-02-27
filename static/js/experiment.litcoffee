@@ -3,6 +3,7 @@ This is a rewrite of the basic go/no-go jspsych experiment implemented in psitur
 Current constraints:
 
 - The program only writes data to the server at the end.
+- It's a basic experiment that do not do what I want, which is categorization of two different stimuli. We'll get there.
 
 First load psiturk.
 
