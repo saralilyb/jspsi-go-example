@@ -6,9 +6,13 @@ For a breakdown of how the experiment works, see [the Literate CoffeeScript file
 
 The experiment file `templates/exp.html` calls the `static/js/experiment.js` experiment.
 
-See the [PsiTurk Quick Start Guide](http://www.psiturk.org/quick_start/) for info on how to get up and running quickly. Instead of using `psiturk-setup-example` to create example code, you can check out this repository. (This section will be replaced once this experiment example goes live on the [PsiTurk Experiment Exchange](http://www.psiturk.org/ee/).)
+See the [PsiTurk Quick Start Guide](http://www.psiturk.org/quick_start/) for info on how to get up and running quickly. Instead of using `psiturk-setup-example` to create example code, you can check out this repository. 
 
 	git clone https://github.com/jtth/jspsi-go-example.git
+
+Or just grab it using the [PsiTurk Experiment Exchange](http://www.psiturk.org/ee/).
+
+	psiturk-install NiyHgcEBwwH7uQebC2oWPN
 
 Once you have the directory on your computer, go into it and start PsiTurk.
 
